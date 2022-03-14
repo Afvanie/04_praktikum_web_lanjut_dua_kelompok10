@@ -18,7 +18,6 @@ return new class extends Migration
             $table->string('nama')->index();
             $table->string('gambar')->index();
             $table->text('deskripsi');
-            $table->boolean('status')->default(false);
             $table->timestamps();
         });
     }

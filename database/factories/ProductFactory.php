@@ -20,7 +20,6 @@ class ProductFactory extends Factory
             'nama' => $this->faker->sentence(),
             'gambar' =>$this->faker-imageUrl(230, 140, 'products', true),
             'deskripsi' => $this->faker->realText(),
-            'status' => random_int(0, 1),
         ];
     }
 }

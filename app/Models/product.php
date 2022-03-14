@@ -10,5 +10,5 @@ class product extends Model
     use HasFactory;
 
     protected $table = 'products';
-    protected $primarykey = 'id';
+    protected $primaryKey = 'id';
 }

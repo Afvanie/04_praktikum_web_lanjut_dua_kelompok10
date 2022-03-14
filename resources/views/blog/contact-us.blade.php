@@ -21,7 +21,7 @@
                              Kontak Kami : 
                             <li>Whatsapp - 089926530946</li>
                             <li>Telegram - 0895627515230</li>
-                            diharap mengisi form kritik dan saran di bawah ini
+                            Kritik dan Saran
                         
                         <div class="form-group">
                             <br><label for="name">Nama</label>
