@@ -20,7 +20,7 @@
                         <center>
                             Halaman ini menampilkan informasi mengenai kami
                         </center><br>
-                        Contoh About-Us : <br>
+                        Halaman : <br>
                         ABOUT US<br>
                     </div>
                 </div>
